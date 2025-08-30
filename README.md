@@ -33,7 +33,7 @@ The system integrates **computer vision (YOLOv5)**, **temperature and gas sensin
 ### Requirements
 - NVIDIA Jetson Nano (4GB recommended)  
 - Transbot robot platform  
-- Ubuntu 18.04 / 20.04 with JetPack SDK  
+- Ubuntu 18.04  with JetPack SDK  
 - Anaconda / Miniconda  
 - YOLOv5 (official repo)
 - arduino （ESP8266 NodeMCU）
