@@ -56,6 +56,8 @@ This guide describes the **complete startup procedure** for the multimodal wareh
    
 4. Export weights (best.pt) for deployment.
 
+✅ Alternatively, you can skip training and directly use the pretrained fire & smoke detection model from this repository:
+fire_and_smoke_detection_yolov5
 ####  2️⃣ Deploy YOLOv5 on Jetson Nano
 1. Install Anaconda on Jetson Nano.
 2. Create environment:
