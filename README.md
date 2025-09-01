@@ -162,9 +162,9 @@ Open **Terminal D** and run:
 - `q` : Exit the program.  
 - `Space` : Start autopilot.  
 
-#### 8️⃣ Start Gas & Temperature Sensors (ESP8266/Arduino)
+#### 8️⃣ Start Gas & Temperature Sensors (ESP8266/Arduino) in PC
 
-1. Go to the `arduino/` folder and open the sketch in **Arduino IDE**.  
+1. Go to the `arduino/sketch_may5b` folder and open the sketch `sketch_may5b.ino` in **Arduino IDE**.  
 2. Update your Wi-Fi credentials in the code if you are in first time use it:
    ```bash
    const char* ssid = "YOUR_WIFI_NAME";
