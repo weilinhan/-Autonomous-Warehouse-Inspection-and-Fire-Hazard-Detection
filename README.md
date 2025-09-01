@@ -180,10 +180,10 @@ You can verify the data in the AWS IoT MQTT test client under topics like sensor
 
 1. Go to the **AWS IoT Console → MQTT Test Client**.  
 2. Subscribe to the following topics:  
-   - `fire/detection`  
-   - `robot/localization`  
-   - `sensor/gas`  
-   - `sensor/temperature`  
+   - `yolo/fire`  for yolo detection
+   - `esp8266/pub`  for temperature and smoke detection
+   - `transbot/tag`  for artag localization
+ 
 
 **Arguments:**
 - *(no extra arguments required; only AWS IoT topics need to be subscribed in the console)*
