@@ -221,10 +221,9 @@ To visualize data and receive notifications, you need to start both the **Dashbo
 **Expected result:**
   - Connects to **AWS IoT Core** using certificates.  
   - Subscribes to topics:  
-  - `fire/detection`  
-  - `robot/localization`  
-  - `sensor/gas`  
-  - `sensor/temperature`  
+  - `yolo/fire`  
+  - `esp8266/pub`  
+  - `transbot/tag`    
   - Forwards MQTT messages to the dashboard frontend via WebSocket.  
   - Ensures dashboard updates in **real time**.
   - 
