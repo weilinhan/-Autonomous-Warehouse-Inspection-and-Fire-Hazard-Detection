@@ -200,16 +200,16 @@ To visualize data and receive notifications, you need to start both the **Dashbo
 
 **Step 1. Run Dashboard frontend**
 
-    ```bash
-    cd dashboard-app
-    npm install   # only required the first time
-    npm run dev
+       ```bash
+       cd dashboard-app
+       npm install   # only required the first time
+       npm run dev
 
 **Step 2. Run MQTT backend server**
-   ```bash
-   cd mqtt-server
-   npm install   # only required the first time
-   node server.js
+      ```bash
+      cd mqtt-server
+      npm install   # only required the first time
+      node server.js
   
   **Arguments:**
   - Certificates required in this folder:  
