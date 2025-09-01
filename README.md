@@ -272,10 +272,10 @@ Use a Telegram bot to receive **instant alerts** and **fire images** on your pho
 ## 🎥 Demo
 
 -Fire/smoke detection with YOLOv5 (insert screenshot/video)
-
--Transbot autonomous navigation (photo or GIF)
+[![Watch demo](https://img.youtube.com/vi/0R7VlwMeDiQ/0.jpg)](https://www.youtube.com/watch?v=0R7VlwMeDiQ)
 
 -PC UI showing inspection data & alerts (screenshot)
+
 ## 📊 Results
 
 -Reliable early fire detection in real-time
