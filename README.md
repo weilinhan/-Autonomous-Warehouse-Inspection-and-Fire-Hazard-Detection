@@ -211,6 +211,15 @@ To visualize data and receive notifications, you need to start both the **Dashbo
 
 ---
 
+**📥 Download / Clone the code**
+
+Clone the repository to get the Dashboard and MQTT server code:
+      
+      ```bash
+      git clone https://github.com/weilinhan/dashboard_firedetection_monitor_localization.git
+      cd dashboard_firedetection_monitor_localization
+      ---
+
 **Step 1. Run Dashboard frontend**
 
       ```bash
