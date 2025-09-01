@@ -37,7 +37,7 @@ The system integrates **computer vision (YOLOv5)**, **temperature and gas sensin
 - Anaconda / Miniconda  
 - YOLOv5 (official repo)
 - arduino （ESP8266 NodeMCU）
-- - Jetson Nano and PC（which show the dashboard） must be connected to the **same network**   
+- Jetson Nano and PC（which show the dashboard） must be connected to the **same network**   
 
 ### 🚀 First-Time Setup Guide
 
