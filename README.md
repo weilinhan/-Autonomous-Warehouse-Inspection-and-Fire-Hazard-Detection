@@ -206,10 +206,10 @@ To visualize data and receive notifications, you need to start both the **Dashbo
     npm run dev
 
 **Step 2. Run MQTT backend server**
-          ```bash
-          cd mqtt-server
-          npm install   # only required the first time
-          node server.js
+   ```bash
+   cd mqtt-server
+   npm install   # only required the first time
+   node server.js
   
   **Arguments:**
   - Certificates required in this folder:  
