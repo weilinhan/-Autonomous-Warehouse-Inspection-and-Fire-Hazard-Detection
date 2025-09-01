@@ -82,8 +82,8 @@ This guide describes the **complete startup procedure** for the multimodal wareh
    - `private.pem.key`  
    - `AmazonRootCA1.pem`  
 3. Place the certificates in the following folders:  
-   - `yolov5/aws_certificates/` → for **YOLO fire detection**  
-   - `src/transbot_visual/launch/` → for **ArTag localization**  
+   - `yolov5/` → for **YOLO fire detection**  
+   - `src/transbot_visual/scripts/` → for **ArTag localization**  
 4. Update your AWS configuration file `config/aws_config.json` with your endpoint and certificate paths, e.g.:
 
     ```json
