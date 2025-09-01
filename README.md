@@ -211,13 +211,13 @@ To visualize data and receive notifications, you need to start both the **Dashbo
       npm install   # only required the first time
       node server.js
   
-  **Arguments:**
+**Arguments:**
   - Certificates required in this folder:  
   - `AmazonRootCA1.pem`  
   - `certificate.pem.crt`  
   - `private.pem.key`  
 
-  **Expected result:**
+**Expected result:**
   - Connects to **AWS IoT Core** using certificates.  
   - Subscribes to topics:  
   - `fire/detection`  
@@ -226,8 +226,8 @@ To visualize data and receive notifications, you need to start both the **Dashbo
   - `sensor/temperature`  
   - Forwards MQTT messages to the dashboard frontend via WebSocket.  
   - Ensures dashboard updates in **real time**.
+  - 
 **Step 3. Telegram Bot Alerts**
-
 Use a Telegram bot to receive **instant alerts** and **fire images** on your phone.
 
 ---
