@@ -277,9 +277,10 @@ Use a Telegram bot to receive **instant alerts** and **fire images** on your pho
 
 -PC UI showing inspection data & alerts (screenshot)
 
-![Fire Alert](fire_dashboard_alert.png)
+<img src="fire_dashboard_alert.png" alt="Fire Alert" width="400"/>
 
-![Dashboard Overview](b632050c1965194ce9f17b239717da49.jpg)
+
+<img src="b632050c1965194ce9f17b239717da49.jpg" alt="Dashboard Overview" width="400"/>
 
 ## 📊 Results
 
