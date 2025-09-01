@@ -134,11 +134,12 @@ Open **Terminal B** and run:
     conda deactivate
     roslaunch transbot_visual ar_track.launch
     
-If you want to see more detailed visualization results of ArTag detection, you can edit
-src/transbot_visual/launch/ar_track.launch and set the rviz parameter to on.
-This will launch RViz together with the node.
+If you want to see more detailed visualization results of ArTag detection, you can edit 
+`src/transbot_visual/launch/ar_track.launch` and set the `rviz` parameter to `on`. 
+This will launch `RViz` together with the node.
 
-By default, rviz is set to false in order to save computing resources.
+By default, `rviz` is set to `false` in order to save computing resources.
+
 
 #### 6️⃣ Start Lidar
 
@@ -155,6 +156,11 @@ Open **Terminal D** and run:
     ```bash
     conda deactivate
     roslaunch transbot_linefollow follow_line.launch VideoSwitch:=true
+
+- `r` : Color selection mode. Use the mouse to select the area of the color to be recognized (cannot exceed the area range).  
+- `i` : Target detection mode. Color map on the left (Color), binary map on the right (Binary).  
+- `q` : Exit the program.  
+- `Space` : Start autopilot.  
 
 #### 8️⃣ Start Gas & Temperature Sensors (ESP8266/Arduino)
 
