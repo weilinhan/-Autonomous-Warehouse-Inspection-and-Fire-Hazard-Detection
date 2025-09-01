@@ -188,7 +188,7 @@ Gas concentration and temperature readings are collected.
 
 Sensor data is published to AWS IoT Core via MQTT.
 
-You can verify the data in the AWS IoT MQTT test client under topics like sensor/gas and sensor/temperature.
+You can verify the data in the AWS IoT MQTT test client under topics `esp8266/pub` like .
 #### 9️⃣ Verify Data on AWS IoT
 
 1. Go to the **AWS IoT Console → MQTT Test Client**.  
