@@ -280,7 +280,7 @@ Use a Telegram bot to receive **instant alerts** and **fire images** on your pho
 <img src="fire_dashboard_alert.png" alt="Fire Alert" width="400"/>
 
 
-<img src="b632050c1965194ce9f17b239717da49.jpg" alt="Dashboard Overview" width="400"/>
+<img src="b632050c1965194ce9f17b239717da49.jpg" alt="Mobile Screenshot" width="250"/>
 
 ## 📊 Results
 
