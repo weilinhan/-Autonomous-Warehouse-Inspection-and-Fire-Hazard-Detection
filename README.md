@@ -191,16 +191,7 @@ You can verify the data in the AWS IoT MQTT test client under topics like sensor
 **Expected result:**
 - You will see JSON payloads arriving in real time.  
 
-**Example: Fire detection message**
-    ```json
-    {
-      "timestamp": "2025-08-30T10:15:23Z",
-      "source": "jetson-nano-transbot-01",
-      "type": "fire_detection",
-      "detections": [
-        {"class": "fire", "conf": 0.94, "bbox": [120, 50, 300, 280]}
-      ]
-    }
+
 #### 🔟 Dashboard & Telegram Alerts
 
 To visualize data and receive notifications, you need to start both the **Dashboard frontend** and the **MQTT backend server**.
